@@ -1,0 +1,3 @@
+gcc graphes.c symetrique.c -o symetrique
+
+./symetrique amitie.graphe result.graphe
